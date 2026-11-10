@@ -1,4 +1,3 @@
-
 <html lang="pt-PT">
 <head>
 <meta charset="utf-8">
